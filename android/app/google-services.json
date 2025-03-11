@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156598573308",
+    "project_id": "rotify-flutter-clone",
+    "storage_bucket": "rotify-flutter-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156598573308:android:558f00be8bdeb72e0fdf79",
+        "android_client_info": {
+          "package_name": "com.example.red"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxCCCI85PEZ5fienphWHh_aSY5V_YGY2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
